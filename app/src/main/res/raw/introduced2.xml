@@ -1,0 +1,233 @@
+<?xml version="1.0"?>
+<result_set>
+  <status>OK</status>
+  <copyright>Copyright (c) 2016 The New York Times Company. All Rights Reserved.</copyright>
+  <results>
+    <congress>112</congress>
+    <chamber>House</chamber>
+    <num_results>20</num_results>
+    <offset>0</offset>
+    <bills>
+      <bill>
+        <number>H.R.6729</number>
+        <bill_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/112/bills/hr6729.xml</bill_uri>
+        <title>To save at least $10,000,000,000 by consolidating some duplicative and overlapping Government programs.</title>
+        <sponsor_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/C001048.xml</sponsor_uri>
+        <introduced_date>January  1, 2013</introduced_date>
+        <cosponsors>9</cosponsors>
+        <committees>House Natural Resources; House Armed Services</committees>
+        <latest_major_action_date>January  1, 2013</latest_major_action_date>
+        <latest_major_action>Referred to House committee. Status: Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</latest_major_action>
+      </bill>
+      <bill>
+        <number>H.R.6727</number>
+        <bill_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/112/bills/hr6727.xml</bill_uri>
+        <title>To amend the Harmonized Tariff Schedule of the United States to modify temporarily certain rates of duty, and for other purposes.</title>
+        <sponsor_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/C000071.xml</sponsor_uri>
+        <introduced_date>January  1, 2013</introduced_date>
+        <cosponsors>3</cosponsors>
+        <committees>House Natural Resources; House Armed Services</committees>
+        <latest_major_action_date>January  1, 2013</latest_major_action_date>
+        <latest_major_action>Referred to House committee. Status: Referred to the House Committee on Ways and Means.</latest_major_action>
+      </bill>
+      <bill>
+        <number>H.R.6728</number>
+        <bill_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/112/bills/hr6728.xml</bill_uri>
+        <title>To reauthorize the programs and activities of the Federal Emergency Management Agency, and for other purposes.</title>
+        <sponsor_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/D000612.xml</sponsor_uri>
+        <introduced_date>January  1, 2013</introduced_date>
+        <cosponsors>2</cosponsors>
+        <committees>House Natural Resources; House Armed Services</committees>
+        <latest_major_action_date>January  1, 2013</latest_major_action_date>
+        <latest_major_action>Referred to House committee. Status: Referred to the House Committee on Transportation and Infrastructure.</latest_major_action>
+      </bill>
+      <bill>
+        <number>H.CON.RES.147</number>
+        <bill_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/112/bills/hconres147.xml</bill_uri>
+        <title>Waiving the requirement that measures enrolled during the remainder of the One Hundred Twelfth Congress be printed on parchment.</title>
+        <sponsor_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/R000435.xml</sponsor_uri>
+        <introduced_date>January  1, 2013</introduced_date>
+        <cosponsors>0</cosponsors>
+        <committees>House Ways and Means</committees>
+        <latest_major_action_date>January  1, 2013</latest_major_action_date>
+        <latest_major_action>Message on Senate action sent to the House.</latest_major_action>
+      </bill>
+      <bill>
+        <number>H.RES.844</number>
+        <bill_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/112/bills/hres844.xml</bill_uri>
+        <title>Providing for consideration of the Senate amendments to the bill (H.R. 8) to extend certain tax relief provisions enacted in 2001 and 2003, and to provide for expedited consideration of a bill providing for comprehensive tax reform, and for other purposes.</title>
+        <sponsor_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/D000492.xml</sponsor_uri>
+        <introduced_date>January  1, 2013</introduced_date>
+        <cosponsors>0</cosponsors>
+        <committees>House Natural Resources</committees>
+        <latest_major_action_date>January  1, 2013</latest_major_action_date>
+        <latest_major_action>Motion to reconsider laid on the table Agreed to without objection.</latest_major_action>
+      </bill>
+      <bill>
+        <number>H.R.6726</number>
+        <bill_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/112/bills/hr6726.xml</bill_uri>
+        <title>To prevent the 2013 pay adjustment for Members of Congress and persons holding other offices or positions in the Federal Government from being made.</title>
+        <sponsor_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/F000451.xml</sponsor_uri>
+        <introduced_date>January  1, 2013</introduced_date>
+        <cosponsors>20</cosponsors>
+        <committees>House Natural Resources; House Armed Services</committees>
+        <latest_major_action_date>January  2, 2013</latest_major_action_date>
+        <latest_major_action>Referred to Senate committee. Status: Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.</latest_major_action>
+      </bill>
+      <bill>
+        <number>H.R.6720</number>
+        <bill_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/112/bills/hr6720.xml</bill_uri>
+        <title>To provide that no pay adjustment for Members of Congress shall be made in fiscal year 2013 or 2014.</title>
+        <sponsor_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/F000461.xml</sponsor_uri>
+        <introduced_date>December 31, 2012</introduced_date>
+        <cosponsors>0</cosponsors>
+        <committees>House Natural Resources; House Armed Services</committees>
+        <latest_major_action_date>December 31, 2012</latest_major_action_date>
+        <latest_major_action>Referred to House committee. Status: Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</latest_major_action>
+      </bill>
+      <bill>
+        <number>H.R.6721</number>
+        <bill_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/112/bills/hr6721.xml</bill_uri>
+        <title>To provide that no pay adjustment for Members of Congress shall be made in fiscal year 2013 or 2014.</title>
+        <sponsor_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/F000451.xml</sponsor_uri>
+        <introduced_date>December 31, 2012</introduced_date>
+        <cosponsors>35</cosponsors>
+        <committees>House Natural Resources; House Armed Services</committees>
+        <latest_major_action_date>December 31, 2012</latest_major_action_date>
+        <latest_major_action>Referred to House committee. Status: Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</latest_major_action>
+      </bill>
+      <bill>
+        <number>H.R.6722</number>
+        <bill_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/112/bills/hr6722.xml</bill_uri>
+        <title>To provide that no pay adjustment for Members of Congress shall be made in fiscal year 2013.</title>
+        <sponsor_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/B001256.xml</sponsor_uri>
+        <introduced_date>December 31, 2012</introduced_date>
+        <cosponsors>2</cosponsors>
+        <committees>House Natural Resources; House Armed Services</committees>
+        <latest_major_action_date>December 31, 2012</latest_major_action_date>
+        <latest_major_action>Referred to House committee. Status: Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</latest_major_action>
+      </bill>
+      <bill>
+        <number>H.R.6723</number>
+        <bill_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/112/bills/hr6723.xml</bill_uri>
+        <title>To provide for Inspector General oversight for Federal entities not otherwise subject to such oversight, and for other purposes.</title>
+        <sponsor_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/E000172.xml</sponsor_uri>
+        <introduced_date>December 31, 2012</introduced_date>
+        <cosponsors>0</cosponsors>
+        <committees>House Natural Resources; House Armed Services</committees>
+        <latest_major_action_date>December 31, 2012</latest_major_action_date>
+        <latest_major_action>Referred to House committee. Status: Referred to the House Committee on Oversight and Government Reform.</latest_major_action>
+      </bill>
+      <bill>
+        <number>H.R.6724</number>
+        <bill_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/112/bills/hr6724.xml</bill_uri>
+        <title>To reform United States export control restrictions relating to commercially-available automotive products and technologies, and for other purposes.</title>
+        <sponsor_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/K000376.xml</sponsor_uri>
+        <introduced_date>December 31, 2012</introduced_date>
+        <cosponsors>0</cosponsors>
+        <committees>House Natural Resources; House Armed Services</committees>
+        <latest_major_action_date>December 31, 2012</latest_major_action_date>
+        <latest_major_action>Referred to House committee. Status: Referred to the House Committee on Foreign Affairs.</latest_major_action>
+      </bill>
+      <bill>
+        <number>H.R.6725</number>
+        <bill_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/112/bills/hr6725.xml</bill_uri>
+        <title>To provide for greater safety in the use of firearms.</title>
+        <sponsor_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/M000933.xml</sponsor_uri>
+        <introduced_date>December 31, 2012</introduced_date>
+        <cosponsors>0</cosponsors>
+        <committees>House Natural Resources; House Armed Services</committees>
+        <latest_major_action_date>December 31, 2012</latest_major_action_date>
+        <latest_major_action>Referred to House committee. Status: Referred to the House Committee on the Judiciary.</latest_major_action>
+      </bill>
+      <bill>
+        <number>H.RES.843</number>
+        <bill_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/112/bills/hres843.xml</bill_uri>
+        <title>Waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.</title>
+        <sponsor_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/S000250.xml</sponsor_uri>
+        <introduced_date>December 30, 2012</introduced_date>
+        <cosponsors>0</cosponsors>
+        <committees>House Natural Resources</committees>
+        <latest_major_action_date>December 30, 2012</latest_major_action_date>
+        <latest_major_action>Placed on the House Calendar, Calendar No. 175.</latest_major_action>
+      </bill>
+      <bill>
+        <number>H.R.6717</number>
+        <bill_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/112/bills/hr6717.xml</bill_uri>
+        <title>To provide consumer protections for students.</title>
+        <sponsor_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/C000714.xml</sponsor_uri>
+        <introduced_date>December 30, 2012</introduced_date>
+        <cosponsors>3</cosponsors>
+        <committees>House Natural Resources; House Armed Services</committees>
+        <latest_major_action_date>December 30, 2012</latest_major_action_date>
+        <latest_major_action>Referred to House committee. Status: Referred to the Committee on Education and the Workforce, and in addition to the Committees on Armed Services, and Veterans&#x27; Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</latest_major_action>
+      </bill>
+      <bill>
+        <number>H.R.6716</number>
+        <bill_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/112/bills/hr6716.xml</bill_uri>
+        <title>To amend the Balanced Budget and Emergency Deficit Control Act of 1985 to eliminate the sequestrations for fiscal year 2013.</title>
+        <sponsor_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/D000327.xml</sponsor_uri>
+        <introduced_date>December 30, 2012</introduced_date>
+        <cosponsors>0</cosponsors>
+        <committees>House Natural Resources; House Armed Services</committees>
+        <latest_major_action_date>December 30, 2012</latest_major_action_date>
+        <latest_major_action>Referred to House committee. Status: Referred to the House Committee on the Budget.</latest_major_action>
+      </bill>
+      <bill>
+        <number>H.R.6718</number>
+        <bill_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/112/bills/hr6718.xml</bill_uri>
+        <title>To reauthorize part C of the Individuals with Disabilities Education Act.</title>
+        <sponsor_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/R000581.xml</sponsor_uri>
+        <introduced_date>December 30, 2012</introduced_date>
+        <cosponsors>0</cosponsors>
+        <committees>House Natural Resources; House Armed Services</committees>
+        <latest_major_action_date>December 30, 2012</latest_major_action_date>
+        <latest_major_action>Referred to House committee. Status: Referred to the House Committee on Education and the Workforce.</latest_major_action>
+      </bill>
+      <bill>
+        <number>H.R.6719</number>
+        <bill_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/112/bills/hr6719.xml</bill_uri>
+        <title>To promote and expand the application of telehealth under Medicare and other Federal health care programs, and for other purposes.</title>
+        <sponsor_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/T000460.xml</sponsor_uri>
+        <introduced_date>December 30, 2012</introduced_date>
+        <cosponsors>0</cosponsors>
+        <committees>House Natural Resources; House Armed Services</committees>
+        <latest_major_action_date>December 30, 2012</latest_major_action_date>
+        <latest_major_action>Referred to House committee. Status: Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Oversight and Government Reform, Armed Services, and Veterans&#x27; Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.</latest_major_action>
+      </bill>
+      <bill>
+        <number>H.R.6706</number>
+        <bill_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/112/bills/hr6706.xml</bill_uri>
+        <title>Fair Debt Collection Practices Technical Correction Act of 2012</title>
+        <sponsor_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/J000255.xml</sponsor_uri>
+        <introduced_date>December 27, 2012</introduced_date>
+        <cosponsors>0</cosponsors>
+        <committees>House Natural Resources; House Armed Services</committees>
+        <latest_major_action_date>December 27, 2012</latest_major_action_date>
+        <latest_major_action>Referred to House committee. Status: Referred to the House Committee on Financial Services.</latest_major_action>
+      </bill>
+      <bill>
+        <number>H.R.6707</number>
+        <bill_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/112/bills/hr6707.xml</bill_uri>
+        <title>Child Care and Resources Education Act of 2012</title>
+        <sponsor_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/R000581.xml</sponsor_uri>
+        <introduced_date>December 27, 2012</introduced_date>
+        <cosponsors>0</cosponsors>
+        <committees>House Natural Resources; House Armed Services</committees>
+        <latest_major_action_date>December 27, 2012</latest_major_action_date>
+        <latest_major_action>Referred to House committee. Status: Referred to the House Committee on Education and the Workforce.</latest_major_action>
+      </bill>
+      <bill>
+        <number>H.R.6708</number>
+        <bill_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/112/bills/hr6708.xml</bill_uri>
+        <title>To authorize certain appropriations under the Native American Programs Act of 1974.</title>
+        <sponsor_uri>http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/R000581.xml</sponsor_uri>
+        <introduced_date>December 27, 2012</introduced_date>
+        <cosponsors>0</cosponsors>
+        <committees>House Natural Resources; House Armed Services</committees>
+        <latest_major_action_date>December 27, 2012</latest_major_action_date>
+        <latest_major_action>Referred to House committee. Status: Referred to the House Committee on Education and the Workforce.</latest_major_action>
+      </bill>
+    </bills>
+  </results>
+</result_set>

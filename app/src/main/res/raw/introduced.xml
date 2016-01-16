@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    This XML file does not appear to have any style information associated with it. The document tree is shown below.
+    <result_set>
+        <status>OK</status>
+        <copyright>
+            Copyright (c) 2016 The New York Times Company. All Rights Reserved.
+        </copyright>
+        <results>
+            <congress>113</congress>
+            <chamber>House</chamber>
+            <num_results>20</num_results>
+            <offset>0</offset>
+            <bills>
+
+                <bill>
+                    <number>H.R.5892</number>
+                    <bill_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/113/bills/hr5892.xml
+                    </bill_uri>
+                    <title>Online Market Protection Act of 2014</title>
+                    <sponsor_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/S000937.xml
+                    </sponsor_uri>
+                    <introduced_date>January 2, 2015</introduced_date>
+                    <cosponsors>0</cosponsors>
+                    <committees>
+                        House Financial Services; House Ways and Means; House Agriculture
+                    </committees>
+                    <latest_major_action_date>January 2, 2015</latest_major_action_date>
+                    <latest_major_action>
+                        Referred to House committee. Status: Referred to the Committee on Financial Services, and in addition to the Committees on Ways and Means, and Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+                    </latest_major_action>
+                </bill>
+                <bill>
+                    <number>H.RES.784</number>
+                    <bill_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/113/bills/hres784.xml
+                    </bill_uri>
+                    <title>
+                        Designating December 20 of each year as a national day of remembrance for victims of anti-police violence.
+                    </title>
+                    <sponsor_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/S000937.xml
+                    </sponsor_uri>
+                    <introduced_date>January 2, 2015</introduced_date>
+                    <cosponsors>0</cosponsors>
+                    <committees>House Oversight and Government Reform</committees>
+                    <latest_major_action_date>January 2, 2015</latest_major_action_date>
+                    <latest_major_action>
+                        Referred to House committee. Status: Referred to the House Committee on Oversight and Government Reform.
+                    </latest_major_action>
+                </bill>
+                <bill>
+                    <number>H.R.5891</number>
+                    <bill_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/113/bills/hr5891.xml
+                    </bill_uri>
+                    <title>Michelle Obama Nutritional Act</title>
+                    <sponsor_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/S000937.xml
+                    </sponsor_uri>
+                    <introduced_date>January 2, 2015</introduced_date>
+                    <cosponsors>0</cosponsors>
+                    <committees>House Education and the Workforce</committees>
+                    <latest_major_action_date>January 2, 2015</latest_major_action_date>
+                    <latest_major_action>
+                        Referred to House committee. Status: Referred to the House Committee on Education and the Workforce.
+                    </latest_major_action>
+                </bill>
+                <bill>
+                    <number>H.R.5888</number>
+                    <bill_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/113/bills/hr5888.xml
+                    </bill_uri>
+                    <title>
+                        To designate the facility of the United States Postal Service located at 200 Westport Road in Kansas City, Missouri, as the "Nutterville Post Office Building".
+                    </title>
+                    <sponsor_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/C001061.xml
+                    </sponsor_uri>
+                    <introduced_date>December 16, 2014</introduced_date>
+                    <cosponsors>0</cosponsors>
+                    <committees>House Oversight and Government Reform</committees>
+                    <latest_major_action_date>December 16, 2014</latest_major_action_date>
+                    <latest_major_action>
+                        Referred to House committee. Status: Referred to the House Committee on Oversight and Government Reform.
+                    </latest_major_action>
+                </bill>
+                <bill>
+                    <number>H.R.5887</number>
+                    <bill_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/113/bills/hr5887.xml
+                    </bill_uri>
+                    <title>
+                        To repeal the provisions of the Consolidated and Further Continuing Appropriations Act, 2015, which amended the Federal Election Campaign Act of 1971 to establish separate contribution limits for contributions made to national parties to support Presidential nominating conventions, national party headquarters buildings, and recounts.
+                    </title>
+                    <sponsor_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/K000381.xml
+                    </sponsor_uri>
+                    <introduced_date>December 16, 2014</introduced_date>
+                    <cosponsors>0</cosponsors>
+                    <committees>House Administration</committees>
+                    <latest_major_action_date>December 16, 2014</latest_major_action_date>
+                    <latest_major_action>
+                        Referred to House committee. Status: Referred to the House Committee on House Administration.
+                    </latest_major_action>
+                </bill>
+                <bill>
+                    <number>H.CON.RES.125</number>
+                    <bill_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/113/bills/hconres125.xml
+                    </bill_uri>
+                    <title>
+                        Providing for the sine die adjournment of the second session of the One Hundred Thirteenth Congress.
+                    </title>
+                    <sponsor_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/C001048.xml
+                    </sponsor_uri>
+                    <introduced_date>December 12, 2014</introduced_date>
+                    <cosponsors>0</cosponsors>
+                    <committees/>
+                    <latest_major_action_date>December 16, 2014</latest_major_action_date>
+                    <latest_major_action>Message on Senate action sent to the House.</latest_major_action>
+                </bill>
+                <bill>
+                    <number>H.RES.782</number>
+                    <bill_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/113/bills/hres782.xml
+                    </bill_uri>
+                    <title>
+                        Honoring Steve Sauls on his retirement as Florida International University's Vice President of Governmental Relations.
+                    </title>
+                    <sponsor_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/W000808.xml
+                    </sponsor_uri>
+                    <introduced_date>December 12, 2014</introduced_date>
+                    <cosponsors>0</cosponsors>
+                    <committees>House Education and the Workforce</committees>
+                    <latest_major_action_date>December 12, 2014</latest_major_action_date>
+                    <latest_major_action>
+                        Referred to House committee. Status: Referred to the House Committee on Education and the Workforce.
+                    </latest_major_action>
+                </bill>
+                <bill>
+                    <number>H.RES.783</number>
+                    <bill_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/113/bills/hres783.xml
+                    </bill_uri>
+                    <title>
+                        Recognizing the 30th anniversary of Reverend Jesse L. Jackson, Sr.'s 1984 presidential campaign and honoring his heroism and extraordinary service to the United States and the international community.
+                    </title>
+                    <sponsor_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/W000808.xml
+                    </sponsor_uri>
+                    <introduced_date>December 12, 2014</introduced_date>
+                    <cosponsors>0</cosponsors>
+                    <committees>House Oversight and Government Reform</committees>
+                    <latest_major_action_date>December 12, 2014</latest_major_action_date>
+                    <latest_major_action>
+                        Referred to House committee. Status: Referred to the House Committee on Oversight and Government Reform.
+                    </latest_major_action>
+                </bill>
+                <bill>
+                    <number>H.J.RES.131</number>
+                    <bill_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/113/bills/hjres131.xml
+                    </bill_uri>
+                    <title>
+                        Making further continuing appropriations for fiscal year 2015, and for other purposes.
+                    </title>
+                    <sponsor_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/R000395.xml
+                    </sponsor_uri>
+                    <introduced_date>December 12, 2014</introduced_date>
+                    <cosponsors>0</cosponsors>
+                    <committees>House Appropriations</committees>
+                    <latest_major_action_date>December 13, 2014</latest_major_action_date>
+                    <latest_major_action>Became Public Law No: 113-203</latest_major_action>
+                </bill>
+                <bill>
+                    <number>H.RES.779</number>
+                    <bill_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/113/bills/hres779.xml
+                    </bill_uri>
+                    <title>
+                        To establish prospective standards effective January 20, 2017 defining impeachable "high crimes and misdemeanors" within the meaning of Article II, section 4 as applied to the President of the United States to provide fair warning and evenhandedness in the administration of the impeachment power of the House of Representatives.
+                    </title>
+                    <sponsor_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/B001280.xml
+                    </sponsor_uri>
+                    <introduced_date>December 11, 2014</introduced_date>
+                    <cosponsors>0</cosponsors>
+                    <committees>House Judiciary</committees>
+                    <latest_major_action_date>December 11, 2014</latest_major_action_date>
+                    <latest_major_action>
+                        Referred to House committee. Status: Referred to the House Committee on the Judiciary.
+                    </latest_major_action>
+                </bill>
+                <bill>
+                    <number>H.R.5852</number>
+                    <bill_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/113/bills/hr5852.xml
+                    </bill_uri>
+                    <title>Scrap the Cap Act</title>
+                    <sponsor_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/G000556.xml
+                    </sponsor_uri>
+                    <introduced_date>December 11, 2014</introduced_date>
+                    <cosponsors>0</cosponsors>
+                    <committees>House Ways and Means</committees>
+                    <latest_major_action_date>December 11, 2014</latest_major_action_date>
+                    <latest_major_action>
+                        Referred to House committee. Status: Referred to the House Committee on Ways and Means.
+                    </latest_major_action>
+                </bill>
+                <bill>
+                    <number>H.R.5851</number>
+                    <bill_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/113/bills/hr5851.xml
+                    </bill_uri>
+                    <title>
+                        Honoring Our Veterans By Exercising The Right To Vote On Veterans Day Act
+                    </title>
+                    <sponsor_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/G000556.xml
+                    </sponsor_uri>
+                    <introduced_date>December 11, 2014</introduced_date>
+                    <cosponsors>0</cosponsors>
+                    <committees>House Oversight and Government Reform</committees>
+                    <latest_major_action_date>December 11, 2014</latest_major_action_date>
+                    <latest_major_action>
+                        Referred to House committee. Status: Referred to the House Committee on Oversight and Government Reform.
+                    </latest_major_action>
+                </bill>
+                <bill>
+                    <number>H.R.5850</number>
+                    <bill_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/113/bills/hr5850.xml
+                    </bill_uri>
+                    <title>You Earned It Act</title>
+                    <sponsor_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/G000556.xml
+                    </sponsor_uri>
+                    <introduced_date>December 11, 2014</introduced_date>
+                    <cosponsors>0</cosponsors>
+                    <committees>House Ways and Means</committees>
+                    <latest_major_action_date>December 11, 2014</latest_major_action_date>
+                    <latest_major_action>
+                        Referred to House committee. Status: Referred to the House Committee on Ways and Means.
+                    </latest_major_action>
+                </bill>
+                <bill>
+                    <number>H.R.5849</number>
+                    <bill_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/113/bills/hr5849.xml
+                    </bill_uri>
+                    <title>Paid Sick Leave Act</title>
+                    <sponsor_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/G000556.xml
+                    </sponsor_uri>
+                    <introduced_date>December 11, 2014</introduced_date>
+                    <cosponsors>0</cosponsors>
+                    <committees>
+                        House Education and the Workforce; House Oversight and Government Reform; House Administration; House Judiciary
+                    </committees>
+                    <latest_major_action_date>December 11, 2014</latest_major_action_date>
+                    <latest_major_action>
+                        Referred to House committee. Status: Referred to the Committee on Education and the Workforce, and in addition to the Committees on Oversight and Government Reform, House Administration, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+                    </latest_major_action>
+                </bill>
+                <bill>
+                    <number>H.R.5848</number>
+                    <bill_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/113/bills/hr5848.xml
+                    </bill_uri>
+                    <title>
+                        Early Warning Reporting System Improvement Act of 2014
+                    </title>
+                    <sponsor_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/C001090.xml
+                    </sponsor_uri>
+                    <introduced_date>December 11, 2014</introduced_date>
+                    <cosponsors>1</cosponsors>
+                    <committees>House Energy and Commerce</committees>
+                    <latest_major_action_date>December 11, 2014</latest_major_action_date>
+                    <latest_major_action>
+                        Referred to House committee. Status: Referred to the House Committee on Energy and Commerce.
+                    </latest_major_action>
+                </bill>
+                <bill>
+                    <number>H.RES.780</number>
+                    <bill_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/113/bills/hres780.xml
+                    </bill_uri>
+                    <title>
+                        Honoring the life, accomplishments, and legacy of Chokwe Lumumba.
+                    </title>
+                    <sponsor_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/C000714.xml
+                    </sponsor_uri>
+                    <introduced_date>December 11, 2014</introduced_date>
+                    <cosponsors>0</cosponsors>
+                    <committees>House Oversight and Government Reform</committees>
+                    <latest_major_action_date>December 11, 2014</latest_major_action_date>
+                    <latest_major_action>
+                        Referred to House committee. Status: Referred to the House Committee on Oversight and Government Reform.
+                    </latest_major_action>
+                </bill>
+                <bill>
+                    <number>H.RES.781</number>
+                    <bill_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/113/bills/hres781.xml
+                    </bill_uri>
+                    <title>
+                        Commemorating the 100th Anniversary of the World War I Christmas Truce of 1914.
+                    </title>
+                    <sponsor_uri>
+                        http://api.nytimes.com/svc/politics/v3/us/legislative/congress/members/C001038.xml
+                    </sponsor_uri>
+                    <introduced_date>December 11, 2014</introduced_date>
+                    <cosponsors>2</cosponsors>
+                    <committees>House Foreign Affairs</committees>
+                    <latest_major_action_date>December 11, 2014</latest_major_action_date>
+                    <latest_major_action>
+                        Referred to House committee. Status: Referred to the House Committee on Foreign Affairs.
+                    </latest_major_action>
+                </bill>
+            </bills>
+        </results>
+    </result_set>
+</resources>
